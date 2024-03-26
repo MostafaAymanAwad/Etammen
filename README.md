@@ -31,7 +31,8 @@
 
 #### admin Dashboard:
 - admin approve doctors documents to be verified on the website
-- admin manage all website entities 
+- admin manage all website entities
+
 
 ***
 ### technical aspects:
@@ -44,7 +45,6 @@
 
 ### structured Logging
 - all request, error status, exception are handled and logged in json file and also in database for higher severity exceptions and errors
-
 
 ## technologies and tools used :
 - c# 12
@@ -90,7 +90,7 @@
   (https://www.linkedin.com/in/moaz-samy/)
 
 #### Ahmed Fawzi: 
-  (https://www.linkedin.com/in/ahmed-fawzi-136225269/)
+  (https://www.linkedin.com/in/ahmed-fawzi-elarabi/)
 
 ***
 ##### Website demo video on all linked in accounts.
